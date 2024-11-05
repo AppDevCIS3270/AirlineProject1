@@ -8,7 +8,7 @@ public class Main {
         System.out.println("SJFDLKJLFKD");
 
         System.out.println("BANKAII");
-
+        System.out.println("This is another test to be sure.");
         System.out.println("Test");
 
 
