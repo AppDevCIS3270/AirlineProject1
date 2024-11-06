@@ -1,5 +1,5 @@
 package org.example;
-
+// add abstraction so both customers and admins have to have all these requirments
 public class User {
     String username;
     String password;
