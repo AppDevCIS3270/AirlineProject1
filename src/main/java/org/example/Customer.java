@@ -1,8 +1,14 @@
 package org.example;
 
-public class Customer extends User{
+public class Customer extends User {
 
-
+    private String firstName;
+    private  String lastName;
+    private String address;
+    private String zip;
+    private String state;
+    private String email;
+    private String SSN;
 
      /*
     methods:
